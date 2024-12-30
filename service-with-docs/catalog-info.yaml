@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: service-with-docs
   description: |
     This is a service containing some documents
   annotations:
